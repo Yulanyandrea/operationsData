@@ -66,6 +66,8 @@ const operationsData = {
   
   
   multiply: [
+  
+  
     {
       user: 'user1',
       value1: 10_500,
@@ -91,6 +93,8 @@ const operationsData = {
   
   
   divide: [
+  
+  
     {
       user: 'user1',
       value1: '2000',
