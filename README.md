@@ -1,6 +1,6 @@
-# operationsData
+# OperationsData
 
-Reto
+                                                                    Reto
 Crear un programa, que importe un modulo de operaciones que contenga los metodo necesario para calcular los totales por cada uno de los items del arreglo.
 
 const operationsData = {
